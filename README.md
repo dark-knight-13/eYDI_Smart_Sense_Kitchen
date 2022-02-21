@@ -17,4 +17,5 @@ An automated kitchen ventilation with gesture control and a kitchen wet waste di
 - SPDT relay
 - RS775 motor
 - LN4007 diodes
+
 ![Connections](https://user-images.githubusercontent.com/70195197/155003923-1919f0c9-c544-4bec-a72b-28c519072a0b.jpg)
