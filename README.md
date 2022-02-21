@@ -1,7 +1,7 @@
 # eYDI Smart Sense Kitchen
 An automated kitchen ventilation with gesture control and a kitchen wet waste disposal bin.
 ## NativeVent
-![exploded view of system](https://user-images.githubusercontent.com/70195197/155001897-cce69cce-caed-4149-bafb-ed5267714dde.JPG)
+![exploded view of system](https://user-images.githubusercontent.com/70195197/155004204-b37f21a3-df2d-45c2-a011-d1f7ebc2831b.JPG)
 ### Components used
 - Arduino Mega
 - RS775 motors
